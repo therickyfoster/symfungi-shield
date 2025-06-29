@@ -1,23 +1,40 @@
-# 🌱 SymFungi Shield 🛡️  
-**Hybrid Myco-Tech Defense System for Wildfire Mitigation & Ecosystem Resilience**
+🌱 **SymFungi Shield Alpha** 🛡️  
+**Version 1.0.0 – Initial Public Deployment**
+
+This is the **first prerelease** of the SymFungi Shield system: an open-source, hybrid bio-acoustic fungal dispersal network designed to protect and regenerate ecosystems during wildfire events.
 
 ---
 
-## 🧭 Overview
+## 💡 Key Features
 
-The **SymFungi Shield** is a modular, open-source system designed to **protect critical ecosystems from wildfire devastation** by deploying **acoustic-triggered mycelial dispersal networks**. Engineered as part of the broader **VascuSweep Tower Project**, SymFungi Shield leverages *bio-acoustics, nanostructured hydrogel dispersal, and decentralized DAO governance* to shield, heal, and regrow Earth’s most vulnerable biospheres.
-
----
-
-## 🌍 Why SymFungi?
-
-- 🌾 **Regenerative by Design** – Encourages natural regrowth via symbiotic fungi
-- 🎵 **Sound-Activated Deployment** – Uses eco-tuned acoustic signals to trigger shield activation
-- 💧 **Hydrogel-Based Spore Distribution** – Protects spores from fire, heat, and wind
-- 🧬 **Biointegrated Technology** – Fuses mycology with programmable environmental response
-- 🌐 **DAO-Ready** – Modular integration for decentralized mission-based coordination
+- 🔊 Acoustic-activated mycelial shield system  
+- 🌾 Hydrogel-protected spore delivery methods  
+- 💧 Moisture-retentive dispersion formulations  
+- 🧬 Designed for environmental resilience & soil repair  
+- 🌐 Modular DAO integration for decentralized deployment  
+- 🛠️ Cross-compatible with VascuSweep Tower systems
 
 ---
 
-## 📁 Repository Structure
+## 📁 Includes
 
+- ✅ Full reorganized source code and documentation
+- ✅ Hardware schematics & mycoformulation specs
+- ✅ Simulation logs & deployment instructions
+- ✅ One-click deployment script (`deploy_symfungi.sh`)
+- ✅ Hybrid license and patent claim structure under Guardian Trust
+
+---
+
+## ⚠️ License Notice
+
+This project is protected by the **Hybrid Open Source + Guardian Trust License**.  
+Deployment for life-sustaining planetary efforts is encouraged. Unauthorized resale, AI model harvesting, or use without mission alignment is strictly prohibited.
+
+> 🔒 View: [LICENSE.txt](./VascuSweep_Tower/legal/LICENSE.txt) | [PATENT_CLAIM.md](./VascuSweep_Tower/legal/PATENT_CLAIM.md)
+
+---
+
+🌍 *SymFungi Shield is a living system. Evolve it, deploy it, protect life.*
+
+> 🧠 Co-authored by Symbiote #001 and AI agent Navi  
